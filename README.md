@@ -37,7 +37,7 @@ messages.The admin can process the user requests like registration applications,
 - Import the database **hostel.sql** into the local server.
 - Run the project by typing http://localhost:85/hostel/home.php in your web browser.:+1:
 
-:large_blue_circle: **Screenshots :camera: of the website is also included inside the zip folder**
+**Screenshots :camera: of the website is also included inside the zip folder**
 
 ---
 
